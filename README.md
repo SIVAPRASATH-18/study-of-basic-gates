@@ -89,15 +89,18 @@ module Gate_1 (
 endmodule
 ~~~
  Developed by: SIVAPRASATH B
+ 
  RegisterNumber: 25016007
  
  
 **Logic symbol & Truthtable**
 
-**RTL realization Output:** 
+**RTL realization Output:**
+
 <img width="605" height="476" alt="Screenshot 2025-11-20 195425" src="https://github.com/user-attachments/assets/2f26c28b-2e27-4cd8-aa3d-29ea1e930103" />
 
 **RTL**
+
 <img width="941" height="673" alt="Screenshot 2025-11-20 195523" src="https://github.com/user-attachments/assets/81e7a5a8-a258-40a7-b459-e830ac470191" />
 
 **Result:**
