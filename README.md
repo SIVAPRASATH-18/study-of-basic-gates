@@ -104,5 +104,6 @@ endmodule
 <img width="941" height="673" alt="Screenshot 2025-11-20 195523" src="https://github.com/user-attachments/assets/81e7a5a8-a258-40a7-b459-e830ac470191" />
 
 **Result:**
+
 Thus the truth table of logic gates in Quartus II using Verilog programming is verified
 
